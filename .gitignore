@@ -21,8 +21,8 @@ env/
 *.swo
 
 
-.DS_Store          # pentru macOS
-Thumbs.db          # pentru Windows
+.DS_Store
+Thumbs.db
 
 
 *.coverage
