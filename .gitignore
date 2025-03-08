@@ -1,5 +1,6 @@
-# Ignoră fișierele Python compilate
+
 __pycache__/
+__pycache__
 *.py[cod]
 *.pyo
 *.pyd
@@ -7,9 +8,9 @@ __pycache__/
 venv/
 env/
 *.env
-
-.idea/            # pentru PyCharm
-.vscode/          # pentru Visual Studio Code
+/idea
+.idea/
+.vscode/
 *.sublime-workspace
 *.sublime-project
 
