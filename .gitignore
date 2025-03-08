@@ -1,0 +1,40 @@
+# Ignoră fișierele Python compilate
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+venv/
+env/
+*.env
+
+.idea/            # pentru PyCharm
+.vscode/          # pentru Visual Studio Code
+*.sublime-workspace
+*.sublime-project
+
+
+*.log
+*.bak
+*.swp
+*.swo
+
+
+.DS_Store          # pentru macOS
+Thumbs.db          # pentru Windows
+
+
+*.coverage
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+
+*.egg
+*.egg-info/
+dist/
+build/
+
+
+.gitmodules
+.gitignore
