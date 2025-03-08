@@ -8,8 +8,7 @@ venv/
 env/
 *.env
 
-.idea/            # pentru PyCharm
-.vscode/          # pentru Visual Studio Code
+.vscode/
 *.sublime-workspace
 *.sublime-project
 
@@ -20,8 +19,8 @@ env/
 *.swo
 
 
-.DS_Store          # pentru macOS
-Thumbs.db          # pentru Windows
+.DS_Store
+Thumbs.db
 
 
 *.coverage
